@@ -20,5 +20,5 @@ Compare the player's guess with the secret number generated . Determine if the g
 Based on the comparison ,the program will provide feedback to the player. If the guess is too high or too low, it  inform the player and prompt them to guess again. If the guess is correct, it will congratulate the player and end the game.
 
 # Repeat Until Correct Guess:
-Keep looping until the player correctly guesses the secret number.
+Keep looping until the user correctly guesses the secret number.
 
