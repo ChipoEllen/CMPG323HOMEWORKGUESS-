@@ -1,4 +1,4 @@
-# CMPG323HOMEWORKGUESS-
+# Development 
 
 # Description:
 This is code cointains a game where the user has to guess a number that the program has chosen from 1 to 50.
